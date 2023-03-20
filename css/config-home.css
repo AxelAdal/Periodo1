@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-texto1: rgb(50, 9, 146);
+    --color-texto2: rgb(255, 0, 0);
+    --color-texto3: rgb(0, 0, 0);
+    --color-texto4: rgb(255, 255, 255);
+    --color-texto5: rgb(16, 119, 88);
+    --color-texto6: rgb(14, 2, 29);
+}
+
+html, body {
+    font-size: 10px;
+    font-family: 'IM Fell English', serif;
+    font-family: 'Raleway', sans-serif;
+}

@@ -1,0 +1,30 @@
+.menu{
+    background-color: black;
+    height: 2rem;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+}
+/*Imagen de arriba*/
+.cara{
+    width: auto;
+    height: 40rem;
+    background-color: cyan;
+}
+.pizza{
+    height: 25rem;
+    width: 37.5rem;  
+}
+/*Posicion de los elemnete encima de la imagen*/
+.cara h1{
+    position: absolute;
+    margin-top: 5rem;
+    font-size: 5rem;
+}
+.cara p{
+    position: absolute;
+}

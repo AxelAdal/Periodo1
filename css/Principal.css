@@ -1,0 +1,55 @@
+.portada{
+    height: 3rem;
+    width: 3rem;
+    margin: 1rem;
+    border-radius: 80rem;
+    
+    background-color:chartreuse;
+    position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.boto{
+    font-size: 3rem;
+
+    cursor:pointer;
+}
+/*Las fases del logo*/
+.domi{
+    height: 24rem;
+    width: 36rem;
+    margin-top: 3rem;
+    margin-left: 0.5rem;
+
+}
+/*Va con los textos de home*/
+.inicio{
+    height: 17rem;
+    width: auto;
+    font-size:x-large;
+}
+a{
+    text-decoration: none;
+    color: black;
+    cursor: auto;
+}
+.inicio, h3{
+    text-align: center;
+    margin: 3rem;
+}
+/*Botones*/
+.buton1{
+    height: 3rem;
+    width: 10rem;
+    background-color: rgb(93, 93, 201);
+    margin-top: 1rem;
+    margin-left:14rem ;
+    font-size: 1.5rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
