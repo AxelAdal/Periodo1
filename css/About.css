@@ -22,7 +22,34 @@ a{
     width: auto;
     height: 20rem;
 }
+/*Subtitulos de los circulos*/
+.z{
+    margin-left: 1.5rem;
+    margin-top: 5rem;
+    font-style: 1rem;
+    position: absolute;
+}
+.m{
+    margin-left: 7rem;
+    margin-top: 5rem;
+    font-size: 1rem;
+    position: absolute;
+}
+.z{
+    margin-left: 1.5rem;
+    margin-top: 5rem;
+    font-style: 1rem;
+    position: absolute;
+}
+.m{
+    margin-left: 7rem;
+    margin-top: 5rem;
+    font-size: 1rem;
+    position: absolute;
+}
+/*Caja del padre*/
 .cd{
+
     display: flex;
     flex-direction: row;
     margin: 2rem;
@@ -43,5 +70,20 @@ footer{
     margin-top: 1rem;
 
     background-color: rgb(206, 118, 118);
+
+    display: flex;
+    flex-direction: row;
+
+}
+.fin{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    height: 6rem;
+    width: 8rem;
+    background-color: chartreuse;
+}
+footer h3{
+    margin-top: 6rem;
+    margin-left: 2rem;
 
 }
