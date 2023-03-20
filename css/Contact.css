@@ -1,0 +1,54 @@
+.menu{
+    background-color: black;
+    height: 2rem;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+}
+.y{
+    font-size: 3rem;
+    margin-left: 2rem;
+}
+p{
+    margin-left: 1rem;
+    font-size: 1rem;
+    margin-top: 1.5rem;
+}
+.v{
+    width: auto;
+    height: 2rem;
+    background-color: cadetblue;
+    margin: 0.5rem;
+}
+.s{
+    width: 36.5rem;
+    margin-left: 0.5rem;
+    height: 2rem;
+    background-color: rgb(255, 153, 0);
+    margin-top: 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cubo{
+    margin-top: 2rem;
+    height: 30rem;
+    width: 36rem;
+    margin-left: 0.5rem;
+    background-color: crimson;
+}
+
+.e{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 3rem;
+}
+.g{
+    text-align: center;
+    font-size: 1.5rem;
+}

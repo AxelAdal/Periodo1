@@ -1,0 +1,47 @@
+.menu{
+    background-color: black;
+    height: 2rem;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+}
+.e{
+    text-align: center;
+    font-size: 3rem;
+}
+.g{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.co{
+    background-color: blue;
+    width: auto;
+    height: 20rem;
+}
+.cd{
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+}
+.ls{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 30rem;
+    background-color: blueviolet;
+
+}
+.todo{
+    margin-left: 12rem;
+}
+footer{
+    height: 15rem;
+    width: auto;
+    margin-top: 1rem;
+
+    background-color: rgb(206, 118, 118);
+
+}

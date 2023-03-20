@@ -12,7 +12,7 @@ a{
 /*Imagen de arriba*/
 .cara{
     width: auto;
-    height: 40rem;
+    height: 26rem;
     background-color: cyan;
 }
 .pizza{
@@ -26,5 +26,33 @@ a{
     font-size: 5rem;
 }
 .cara p{
+    margin-top: 12rem;
+    margin-left: 1rem;
     position: absolute;
+}
+.U{
+text-align: center;
+margin: 2rem;
+}
+.none{
+    background-color: blue;
+    width: auto;
+    height: 20rem;
+}
+.w{
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+.q{
+    margin-left: 1rem;
+    font-size: 1rem;
+    margin: 1rem;
+}
+footer{
+    height: 15rem;
+    width: auto;
+    margin-top: 1rem;
+
+    background-color: rgb(206, 118, 118);
+
 }
