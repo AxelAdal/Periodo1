@@ -1,11 +1,11 @@
 .menu{
-    background-color: black;
+    background-color: var(--color-texto3);
     height: 2rem;
     width: auto;
 }
 a{
     text-decoration: none;
-    color: red;
+    color: var(--color-texto2);
     margin-left: 0.5rem;
     font-size: 1.5rem;
 }
@@ -18,58 +18,16 @@ a{
     font-size: 1.5rem;
 }
 .co{
-    background-color: blue;
+    background-color: var(--color-texto1);
     width: auto;
     height: 20rem;
-}
-/*Subtitulos de los circulos*/
-.z{
-    margin-left: 1.5rem;
-    margin-top: 5rem;
-    font-style: 1rem;
-    position: absolute;
-}
-.m{
-    margin-left: 7rem;
-    margin-top: 5rem;
-    font-size: 1rem;
-    position: absolute;
-}
-.z{
-    margin-left: 1.5rem;
-    margin-top: 5rem;
-    font-style: 1rem;
-    position: absolute;
-}
-.m{
-    margin-left: 7rem;
-    margin-top: 5rem;
-    font-size: 1rem;
-    position: absolute;
-}
-/*Caja del padre*/
-.cd{
-
-    display: flex;
-    flex-direction: row;
-    margin: 2rem;
-}
-.ls{
-    width: 5rem;
-    height: 5rem;
-    border-radius: 30rem;
-    background-color: blueviolet;
-
-}
-.todo{
-    margin-left: 12rem;
 }
 footer{
     height: 15rem;
     width: auto;
     margin-top: 1rem;
 
-    background-color: rgb(206, 118, 118);
+    background-color: var(--color-texto5);
 
     display: flex;
     flex-direction: row;
@@ -79,11 +37,10 @@ footer{
     margin-top: 2rem;
     margin-left: 2rem;
     height: 6rem;
-    width: 8rem;
-    background-color: chartreuse;
+    width: 32rem;
+    background-color: var(--color-texto8);
 }
 footer h3{
     margin-top: 6rem;
-    margin-left: 2rem;
-
+    margin-left: 0.5rem;
 }
